@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/env python2
 # Copyright 2013 Christian Berendt
 # Copyright 2013 Luke Dashjr
 #
